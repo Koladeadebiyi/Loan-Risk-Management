@@ -175,5 +175,7 @@ in
    - Maintain regular communication with all customer segments to understand their needs and adjust products/services accordingly.
    - Offer personalized financial advice and planning services to improve customer satisfaction and loyalty.
 
+<img width="747" height="743" alt="image" src="https://github.com/user-attachments/assets/6d5d0650-f55c-43db-a6ec-ed048e2c5eef" />
+
 ### References
 AMDARI
